@@ -1,0 +1,65 @@
+msgid "Twitter Impression Zombie Detector"
+msgstr "Twitter Impression Zombie Detector"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Zombie Detector"
+msgstr "Zombie Detector"
+
+msgid "File"
+msgstr "File"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Welcome to the Twitter Impression Zombie Detector"
+msgstr "Welcome to the Twitter Impression Zombie Detector"
+
+msgid "This tool helps you identify potential 'zombie' followers."
+msgstr "This tool helps you identify potential 'zombie' followers."
+
+msgid "Go to the 'Zombie Detector' tab to start analyzing."
+msgstr "Go to the 'Zombie Detector' tab to start analyzing."
+
+msgid "Twitter Username:"
+msgstr "Twitter Username:"
+
+msgid "Threshold (0-1):"
+msgstr "Threshold (0-1):"
+
+msgid "Detect Zombies"
+msgstr "Detect Zombies"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Please enter a Twitter username."
+msgstr "Please enter a Twitter username."
+
+msgid "Detecting zombies... Please wait."
+msgstr "Detecting zombies... Please wait."
+
+msgid "Detected Impression Zombies:"
+msgstr "Detected Impression Zombies:"
+
+msgid "No impression zombies detected."
+msgstr "No impression zombies detected."
+
+msgid "An error occurred: {error}"
+msgstr "An error occurred: {error}"
+
+msgid "Twitter API Key:"
+msgstr "Twitter API Key:"
+
+msgid "Twitter API Secret:"
+msgstr "Twitter API Secret:"
+
+msgid "Save"
+msgstr "Save"

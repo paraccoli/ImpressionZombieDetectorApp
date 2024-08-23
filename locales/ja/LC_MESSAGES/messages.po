@@ -1,0 +1,65 @@
+msgid "Twitter Impression Zombie Detector"
+msgstr "Twitterインプレッションゾンビ検出器"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Zombie Detector"
+msgstr "ゾンビ検出"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Welcome to the Twitter Impression Zombie Detector"
+msgstr "Twitterインプレッションゾンビ検出器へようこそ"
+
+msgid "This tool helps you identify potential 'zombie' followers."
+msgstr "このツールは潜在的な「ゾンビ」フォロワーを特定するのに役立ちます。"
+
+msgid "Go to the 'Zombie Detector' tab to start analyzing."
+msgstr "分析を開始するには「ゾンビ検出」タブに移動してください。"
+
+msgid "Twitter Username:"
+msgstr "Twitterユーザー名："
+
+msgid "Threshold (0-1):"
+msgstr "閾値 (0-1)："
+
+msgid "Detect Zombies"
+msgstr "ゾンビを検出"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Please enter a Twitter username."
+msgstr "Twitterユーザー名を入力してください。"
+
+msgid "Detecting zombies... Please wait."
+msgstr "ゾンビを検出中... お待ちください。"
+
+msgid "Detected Impression Zombies:"
+msgstr "検出されたインプレッションゾンビ："
+
+msgid "No impression zombies detected."
+msgstr "インプレッションゾンビは検出されませんでした。"
+
+msgid "An error occurred: {error}"
+msgstr "エラーが発生しました：{error}"
+
+msgid "Twitter API Key:"
+msgstr "Twitter APIキー："
+
+msgid "Twitter API Secret:"
+msgstr "Twitter APIシークレット："
+
+msgid "Save"
+msgstr "保存"
