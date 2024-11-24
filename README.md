@@ -110,6 +110,6 @@ Twitter Impression Zombie Detectorは、Twitterの潜在的な「ゾンビ」フ
 - このアプリケーションは分析目的で作成されています。Twitterの利用規約に従って使用してください。
 
 ## 作成者 Developer
-- 作成者: xM1guel
-- GitHub: https://github.com/xM1guel
+- 作成者: パラッコリー(ID：Paraccoli)
+- GitHub: https://github.com/paraccoli
 - Zenn: https://zenn.dev/miguel
